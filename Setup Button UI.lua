@@ -1,4 +1,4 @@
-Setup Button UI
+--[[Setup Button UI--]]
 <button
     onClick="setUpCards"
     position="0 0 -30"

@@ -1,4 +1,4 @@
-Set up card button
+--[[Set up card button--]]
 
 DECK_GUID = Global.getVar('DECK_GUID')
 
